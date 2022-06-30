@@ -7,10 +7,10 @@
 Confira esse modelo de menu isométrico criado inteiramente com HTML5 e CSS3.
 Recursos utilizados para manipulação avançada dos elementos:
 
-> HTML5<br>
-<li> li style="--i:1;" </li>
+> <strong>HTML5</strong><br>
+<li> li style="--i:1;" </li><br>
 
-> CSS3<br>
+> <strong>CSS3</strong><br>
 <li> transform: skewY(); </li>
 <li> transform: skewX(); </li>
 <li> transform: translateX(); </li>

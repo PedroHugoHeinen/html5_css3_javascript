@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #53565f;
+    background: #2e3141;
 }
 
 ul {
@@ -24,7 +24,7 @@ ul li {
     position: relative;
     list-style: none;
     width: 200px;
-    background: #3e3f46;
+    background: #52545c;
     padding: 15px;
     z-index: var(--i);
 }
@@ -41,7 +41,7 @@ ul li::before {
     left: -40px;
     width: 40px;
     height: 100%;
-    background: #3e3f46;
+    background: #52545c;
     transform-origin: right;
     transform: skewY(45deg);
     transition: 0.5s;
@@ -58,7 +58,7 @@ ul li::after {
     left: 0;
     width: 100%;
     height: 40px;
-    background: #3e3f46;
+    background: #52545c;
     transform-origin: bottom;
     transform: skewX(45deg);
     transition: 0.5s;
@@ -70,7 +70,7 @@ ul li:hover::after {
 
 ul li a {
     text-decoration: none;
-    color: #999;
+    color: #bbbaba;
     display: block;
     text-transform: uppercase;
     letter-spacing: 0.05em;

@@ -14,7 +14,7 @@ body {
     min-height: 100vh;
     flex-direction: column;
     gap: 30px;
-    background: #1d2b3a;
+    background: #2e3141;
 }
 
 .inputBox {
@@ -54,6 +54,13 @@ body {
     border-left: 1px solid #ffc800;
     border-right: 1px solid #ffc800;
     letter-spacing: 0.2em;
+}
+
+.inputBox:nth-child(3) input:valid ~ span, 
+.inputBox:nth-child(3) input:focus ~ span {
+    background: #ffc800;
+    color: #1d2b3a;
+    border-radius: 2px;
 }
 
 .inputBox:nth-child(4) input:valid ~ span, 

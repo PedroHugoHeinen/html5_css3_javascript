@@ -1,4 +1,4 @@
-<img src="https://github.com/PedroHugoHeinen/html5_css3/blob/7e62e82bac4e441148bb0d92daaf863cb61ecaad/loading-dinamic/loading-dinamic.gif" min-width="350px" max-width="350px" width="350px" align="right" alt="Input Field Text">
+<img src="https://github.com/PedroHugoHeinen/html5_css3_javascript/blob/a467e90282ffbaa35fcb0d7e39ed971bf65cfc9d/loading-dinamic/loading-dinamic.gif" min-width="350px" max-width="350px" width="350px" align="right" alt="Loading Dinamic">
 
 ## **Loanding Dinamic** <br>
 
